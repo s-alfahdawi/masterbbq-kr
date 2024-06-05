@@ -11,7 +11,7 @@ export default function Contact() {
             className="footer contact bg-base-100 mb-10 mt-10 text-right  lg:w-[70%] md:w-[90%] sm:w-[90%] p-8 md:p-10 text-lg text-white/70  flex flex-wrap md:flex-nowrap  justify-between">
             <nav className="w-full hover:text-white/100 md:w-auto mb-4 md:mb-0 md:mr-4  flex flex-col items-center">
 
-                <Image src={location} alt={location} width={30} height={30}/>
+                <Image src={time} alt={location} width={30} height={30}/>
                 <p style={{maxWidth: '200px'}}>لە (12:00) نیوەڕۆ تا (12:00) ئێوارە</p>
             </nav>
             <nav
@@ -23,8 +23,8 @@ export default function Contact() {
                 <p className="">info@masterbbq.com</p>
             </nav>
             <nav className="w-full hover:text-white/100 md:w-auto flex flex-col items-center">
-                <Image src={time} alt={time} width={30} height={30}/>
-                <p style={{maxWidth: '200px'}}>
+                <Image src={location} alt={time} width={30} height={30}/>
+                <p style={{maxWidth: '200px'}} className="ltr:text-right">
                     100 st
                     <br/>
                     Toyota Dealership Road
