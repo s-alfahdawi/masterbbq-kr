@@ -9,7 +9,7 @@ export default function Hero() {
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md">
                         <p className="mb-5  lg:text-7xl md:text-7xl sm-font-5xl text-white  font-bold  ">
-                           طعمتامێکی بەرگە نەگیراو
+                            تامێکی بەرگەر نەگیراو
                         </p>
 
                         <div className="flex flex-col mt-5 items-center">

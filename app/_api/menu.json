@@ -44,14 +44,14 @@
         },
         {
           "id": "6",
-          "name": "زەڵاتەی کبابی",
+          "name": "زەڵاتەی باربيكيو",
           "price": "14,000 IQD",
           "photo": "https://masterbbqerbil.net/images/salads/1.webp",
           "description": ""
         },
         {
           "id": "7",
-          "name": "زەڵاتە تێکەڵ بکە",
+          "name": "زەڵاتە ميكس",
           "price": "12,000 IQD",
           "photo": "https://masterbbqerbil.net/images/salads/2.webp",
           "description": ""
@@ -258,7 +258,7 @@
         },
         {
           "id": "15",
-          "name": "سوورکراوە بەهاراتى تیژ",
+          "name": "پەتاته حاره",
           "price": "4,000 IQD",
           "photo": "https://masterbbqerbil.net/images/appetizers/hotapt/116.webp",
           "description": ""
@@ -314,7 +314,7 @@
         },
         {
           "id": "22",
-          "name": "کیبەی سورکراوە ٣ پارچە",
+          "name": "کیبەی برژاو ۳ پارچه",
           "price": "9,000 IQD",
           "photo": "https://masterbbqerbil.net/images/appetizers/hotapt/kuba.webp",
           "description": ""
@@ -624,28 +624,28 @@
           "name": "سندوق بۆ یەک کەس",
           "price": "20,000 IQD",
           "photo": "https://masterbbqerbil.net/images/box/14.webp",
-          "description": "1یەک ساندویچی بەرگر، ٢٠٠ گرام بریسکێتی دوکەڵاوی، ٣ ئەڵقەی پیاز، ٥٠ گرام ماکارۆنی و پەنیر، فانکەر، سەمۆن ، سۆس، ١ خواردنەوە گازییەکان، یەک ئاو."
+          "description": "1یەک ساندویچی بەرگر، ٢٠٠ گرام بریسکێتی دوکەڵاوی، ٣ ئەڵقەی پیاز، ٥٠ گرام ماکارۆنی و پەنیر، فەنکەر، سەمۆن ، سۆس، ١ خواردنەوە گازییەکان، یەک ئاو."
         },
         {
           "id": "2",
-          "name": "سندوق بۆ خەڵک",
+          "name": "سندوق بۆ دوو کەس",
           "price": "28,000 IQD",
           "photo": "https://masterbbqerbil.net/images/box/11.webp",
-          "description": "22 ساندویچی بەرگر، ٢٠٠ گرام بریسکێتی دوکەڵاوی، ٦ ئەڵقەی پیاز، ١٠٠ گرام ماکارۆنی و پەنیر، فەنکەر، سەمۆن ، سۆس، ٢ خواردنەوە گازییەکان، ٢ ئاو."
+          "description": "2 ساندویچی بەرگر، ٢٠٠ گرام بریسکێتی دوکەڵاوی، ٦ ئەڵقەی پیاز، ١٠٠ گرام ماکارۆنی و پەنیر، فەنکەر، سەمۆن ، سۆس، ٢ خواردنەوە گازییەکان، ٢ ئاو."
         },
         {
           "id": "3",
           "name": "سندوق بۆ سێ کەس",
           "price": "44,000 IQD",
           "photo": "https://masterbbqerbil.net/images/box/13.webp",
-          "description": "3 ساندویچی بەرگر، 400 گرام بریسکێتی دوکەڵاوی، 9 ئەڵقەی پیاز، 200 گرام ماکارۆنی و پەنیر، فانکەر، سەمۆن ، سۆس، 3 خواردنەوە گازییەکان، 3 ئاو."
+          "description": "3 ساندویچی بەرگر، 400 گرام بریسکێتی دوکەڵاوی، 9 ئەڵقەی پیاز، 200 گرام ماکارۆنی و پەنیر، فەنکەر، سەمۆن ، سۆس، 3 خواردنەوە گازییەکان، 3 ئاو."
         },
         {
           "id": "4",
           "name": "سندوق بۆ چوار کەس",
           "price": "56,000 IQD",
           "photo": "https://masterbbqerbil.net/images/box/12.webp",
-          "description": "44 ساندویچی بەرگر، 400 گرام بریسکێتی دوکەڵاوی، 12 ئەڵقەی پیاز، 200 گرام ماکارۆنی و پەنیر، فەنکەر، سەمۆن ، سۆس، 4 خواردنەوە گازییەکان، 4 ئاو."
+          "description": "4 ساندویچی بەرگر، 400 گرام بریسکێتی دوکەڵاوی، 12 ئەڵقەی پیاز، 200 گرام ماکارۆنی و پەنیر، فەنکەر، سەمۆن ، سۆس، 4 خواردنەوە گازییەکان، 4 ئاو."
         }
       ]
     },
@@ -902,7 +902,7 @@
         },
         {
           "id": "4",
-          "name": "وەستا کرێپی",
+          "name": "ماستر کرێپی",
           "price": "6,000 IQD",
           "photo": "https://masterbbqerbil.net/images/sweets/14.webp",
           "description": ""
@@ -916,7 +916,7 @@
         },
         {
           "id": "6",
-          "name": "کرێپی نیلوفەر",
+          "name": "کرێپی لوتوس",
           "price": "6,000 IQD",
           "photo": "https://masterbbqerbil.net/images/sweets/16.webp",
           "description": ""
@@ -944,7 +944,7 @@
         },
         {
           "id": "11",
-          "name": "وافلەکەی نیلوفەر",
+          "name": "وافلەکەی لوتوس",
           "price": "6,000 IQD",
           "photo": "https://masterbbqerbil.net/images/sweets/112.webp",
           "description": ""
@@ -1103,7 +1103,7 @@
             },
             {
               "id": "5",
-              "name": "مێلک شەیک نیلوفەر",
+              "name": "مێلک شەیک لوتوس",
               "price": "7,000 IQD",
               "photo": "https://masterbbqerbil.net/images/drinks/cold/163.webp",
               "description": ""
@@ -1186,7 +1186,7 @@
             },
             {
               "id": "4",
-              "name": "مانگۆ مۆخیتۆ",
+              "name": "مانگۆ مۆهیتۆ",
               "price": "7,000 IQD",
               "photo": "https://masterbbqerbil.net/images/drinks/cold/112.webp",
               "description": ""
@@ -1247,7 +1247,7 @@
             },
             {
               "id": "2",
-              "name": "لاتەی ڤانێلای بە سەهۆڵ",
+              "name": "لاتەی ڤانێلای بە ايس",
               "price": "5,000 IQD",
               "photo": "https://masterbbqerbil.net/images/drinks/cold/134.webp",
               "description": ""
@@ -1548,7 +1548,7 @@
         },
         {
           "id": "6",
-          "name": "ئۆرکید",
+          "name": "سحلب",
           "price": "4,000 IQD",
           "photo": "https://masterbbqerbil.net/images/drinks/hot/113.webp",
           "description": ""
