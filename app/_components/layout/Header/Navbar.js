@@ -19,8 +19,8 @@ export default function Navbar() {
 
                                 </li>
                                 <li>
-                                    <Link className="text-gray-500 hover:text-white" href="https://masterbbqerbil.info">
-                                        کوردی
+                                    <Link className="text-gray-500 hover:text-white" href="https://en.masterbbqerbil.net">
+                                        english
                                     </Link>
                                 </li>
                             </ul>
