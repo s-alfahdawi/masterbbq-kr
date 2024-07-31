@@ -10,21 +10,29 @@ export default function Navbar() {
                     <ul className="menu menu-horizontal px-1">
 
                         <details className="dropdown">
-                            <summary className="m-2 language">کوردی</summary>
-                            <ul className="p-2 shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">
-                                <li>
-                                    <Link className="text-gray-500 hover:text-white" href="https://masterbbqerbil.com">
-                                        العربية
-                                    </Link>
+                        <summary className="m-2 language">Language</summary>
+                        <ul className="p-2 shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">
+                            <li>
+                                <Link className="text-gray-200 hover:text-white" href="https://masterbbqerbil.com">
+                                    کوردی
+                                </Link>
 
-                                </li>
-                                <li>
-                                    <Link className="text-gray-500 hover:text-white" href="https://en.masterbbqerbil.net">
-                                        english
-                                    </Link>
-                                </li>
-                            </ul>
-                        </details>
+                            </li>
+                            <li>
+                                <Link className="text-gray-500 hover:text-white" href="https://en.masterbbqerbil.net/">
+                                    English
+                                </Link>
+                            </li>
+
+
+                            <li>
+                                <Link className="text-gray-500 hover:text-white" href="https://masterbbqerbil.info">
+                                    العربية
+                                </Link>
+                            </li>
+
+                        </ul>
+                    </details>
 
                         <li><Link href="https://wa.me/9647727072244" target="_blank" rel="noopener noreferrer">
                             حجزکردنی مێز</Link></li>
